@@ -1,0 +1,29 @@
+{
+    "name": "makelink",
+    "version": "0.1.0",
+    "description": "Simple jQuery plugin to convert any element into a link.",
+    "keywords": [
+        "jquery-plugin",
+        "ecosystem:jquery",
+        "link",
+        "html",
+        "content"    
+    ],
+    "homepage": "https://github.com/meenasrik/makelink",
+    "license": "MIT",
+    "author": {
+        "name": "Meena"
+    },
+    "maintainers": [
+        {
+            "name": "Meena"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/meenasrik/makelink"
+    },
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
